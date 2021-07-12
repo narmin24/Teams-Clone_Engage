@@ -27,4 +27,4 @@ io.on("connection", (socket) => {
 
 // var port_number = server.listen(process.env.PORT || 3000);
 // app.listen(port_number);
-server.listen(process.env.PORT || 3000, () => console.log("server is running on port 5000"))
+server.listen(process.env.PORT || 5000, () => console.log("server is running on port 5000"))
