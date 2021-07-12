@@ -120,7 +120,7 @@ function App() {
 				/>
 				<CopyToClipboard text={me} style={{ marginBottom: "2rem" }}>
 					<Button variant="contained" color="primary" startIcon={<AssignmentIcon fontSize="large" />}>
-						Copy ID
+						COPY ID
 					</Button>
 				</CopyToClipboard>
 
