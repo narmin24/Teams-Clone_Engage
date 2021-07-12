@@ -96,7 +96,7 @@ function App() {
 	return (
 		<>
 			{/* <div className = "header"></div> */}
-			<h1 style={{ textAlign: "center", color: '#ffffff', verticalAlign: 'sub' }}>Peer-2-Peer Video Call </h1>
+			<h1 style={{ textAlign: "center", color: 'white', verticalAlign: 'sub' }}>Peer-2-Peer Video Call </h1>
 			
 		<div className="container">
 			<div className="video-container">
@@ -116,7 +116,7 @@ function App() {
 					variant="filled"
 					value={name}
 					onChange={(e) => setName(e.target.value)}
-					style={{ marginBottom: "30px", marginTop: "30px" }}
+					style={{ marginBottom: "30px", marginTop: "35px", background: "white" }}
 				/>
 				<CopyToClipboard text={me} style={{ marginBottom: "2rem" }}>
 					<Button variant="contained" color="primary" startIcon={<AssignmentIcon fontSize="large" />}>
@@ -130,10 +130,11 @@ function App() {
 					variant="filled"
 					value={idToCall}
 					onChange={(e) => setIdToCall(e.target.value)}
+					style={{ background: "white" }}
 				/>
 				<div className="call-button">
 					{callAccepted && !callEnded ? (
-						<Button variant="contained" color="secondary" onClick={leaveCall}>
+						<Button variant="contained" color="secondary" onClick={leaveCall} style={{ marginBottom: "20px" ,marginTop: "20px" }}>
 							End Call
 						</Button>
 					) : (
@@ -147,7 +148,7 @@ function App() {
 			<div>
 				{receivingCall && !callAccepted ? (
 						<div className="caller">
-						<h1 >{name} is calling...</h1>
+						<h1 style={{ color: 'white' }}>{name} is calling...</h1>
 						<Button variant="contained" color="primary" onClick={answerCall}>
 							Answer
 						</Button>
