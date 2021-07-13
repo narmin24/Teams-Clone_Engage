@@ -19,10 +19,10 @@ This is my submission for Microsoft Engage 2021.
 * HTML
 
 ## 3. Files
-* **`Frontend`** - Contains ReactJS and CSS and other necessary files for the frontend
-- fcvx
-- dczsx
-
+* **`frontend/src/`** - Contains ReactJS and CSS and other necessary files for the frontend
+   * **`App.css`** : Takes care of the positing and colour styling of components
+   * **`App.js`** : Contains the components with their functionalities
+* **`server.js`** : Backend of the website
 
 ## Usage
 To run this project, install it locally using npm:
