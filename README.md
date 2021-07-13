@@ -5,7 +5,7 @@
 <img src="https://github.com/narmin24/Teams-Clone_Engage/blob/main/Call_connected.png"> 
  </p> 
 <br />
-I've buit a one-on-one (Peer-2-Peer) Video Calling Website using mainly WebRTC and Socket.io. 
+I've buit a Peer-2-Peer Video Calling Website using mainly WebRTC and Socket.io. 
 This is my submission for Microsoft Engage 2021.
 
 ## 1. Technologies and Libraries Used
