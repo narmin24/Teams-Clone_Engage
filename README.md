@@ -1,12 +1,12 @@
 # Teams-Clone_Engage
 
 ## Introduction
-<p align = "center">
-<img src="https://github.com/narmin24/Teams-Clone_Engage/blob/main/Call_connected.png" width="650" height="620"> 
+<p>
+<img src="https://github.com/narmin24/Teams-Clone_Engage/blob/main/Call_connected.png"> 
  </p> 
 <br />
 I've buit a one-on-one (Peer-2-Peer) Video Calling Website using mainly WebRTC and Socket.io. 
-This is my submission for [Microsoft Engage 2021](https://microsoft.acehacker.com/engage2021/).
+This is my submission for [Microsoft Engage 2021](https://microsoft.acehacker.com/engage2021/)
 
 ## 1. Technologies and Libraries Used
 
