@@ -9,16 +9,16 @@ Agile is a development methodology adopted today in the software industry. <br /
 
 ### How was Agile incorporated in this project?
 * **Week1**
-  * Researched various frameworks and libraries, Learnt Few Basic Skills and functioning of NodeJS, ReactJS, WebRTC.
+Researched various frameworks and libraries, Learnt Few Basic Skills and functioning of NodeJS, ReactJS, WebRTC.
 
 * **Week2**
-  * Created the first, very basic website for video rendering. Improved the styling to provide a cleaner interface. Implemented features like enter Name, ID that copies to the clipboard, make call from website.
+Created the first, very basic website for video rendering. Improved the styling to provide a cleaner interface. Implemented features like enter Name, ID that copies to the clipboard, make call from website.
   
 * **Week3**
-  * Included the feature of notifying the call reciever about call. More improvements into the UI along with constant feedback from Mentors.
+Included the feature of notifying the call reciever about call. More improvements into the UI along with constant feedback from Mentors.
 
 * **Week4**
-  * Deployed Backend on Heroku and Frontend using Netlify. Debugged errors and Tested the website.
+Deployed Backend on Heroku and Frontend using Netlify. Debugged errors and Tested the website.
 
 ## 2. Technologies and Libraries Used
 
