@@ -45,3 +45,5 @@ To run this project, install it locally using npm:
 $ npm i express socket.io nodemon
 $ npm run start
 ```
+
+Further see [frontend/README.md](https://github.com/narmin24/Teams-Clone_Engage/blob/main/frontend/README.md)
