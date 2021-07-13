@@ -3,7 +3,9 @@
 ## 1. Introduction
 
 I've buit a Peer-2-Peer Video Calling Website using mainly WebRTC and Socket.io. 
-This is my submission for Microsoft Engage 2021.
+This is my submission for Microsoft Engage 2021.\
+#### Agile Methodology
+Agile scrum methodology is a project management system that relies on incremental development. Each iteration consists of two- to four-week sprints, where each sprint’s goal is to build the most important features first and come out with a potentially deliverable product. More features are built into the product in subsequent sprints and are adjusted based on stakeholder and customer feedback between sprints.
 
 ## 2. Technologies and Libraries Used
 
