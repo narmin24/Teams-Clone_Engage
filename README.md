@@ -36,6 +36,7 @@ This is my submission for Microsoft Engage 2021.
 <img src="https://github.com/narmin24/Teams-Clone_Engage/blob/main/Call_connected.png"> 
  </p> 
 <br />
+
 ## Usage
 To run this project, install it locally using npm:
 ```
