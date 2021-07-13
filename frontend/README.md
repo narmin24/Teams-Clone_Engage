@@ -24,6 +24,6 @@ Your app is ready to be deployed!
 
 ## Usage
 ```
-cd frontend
-yarn start
+$ cd frontend
+$ yarn start
 ```
