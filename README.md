@@ -6,24 +6,23 @@
  </p> 
 <br />
 I've buit a Peer-2-Peer Video Calling Website using mainly WebRTC and Socket.io. 
-This is my submission for Microsoft Engage 2021.
+This is my submission for ![Microsoft Engage 2021](https://microsoft.acehacker.com/engage2021/).
 
 ## 2. Technologies and Libraries Used
 
-1. NodeJS
-2. ReactJS
-3. WebRTC
-4. Socket.io
-5. PeerJS
-6. CSS
-7. HTML
+* NodeJS
+* ReactJS
+* WebRTC
+* Socket.io
+* PeerJS
+* CSS
+* HTML
 
 ## 3. Project Description
 
 ## 4. Usage
 To run this project, install it locally using npm:
 ```
-$ cd ../lorem
 $ npm i express socket.io nodemon
 $ npm run start
 ```
