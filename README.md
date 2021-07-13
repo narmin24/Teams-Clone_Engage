@@ -20,8 +20,8 @@ This is my submission for Microsoft Engage 2021.
 
 ## 3. Files
 * **`Frontend`** - Contains ReactJS and CSS and other necessary files for the frontend
-  * 
-* **`Extracting Targeted Tweets.py`** - Script to scrape a user's Twitter information
+- fcvx
+- dczsx
 
 
 ## Usage
