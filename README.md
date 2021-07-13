@@ -24,6 +24,18 @@ This is my submission for Microsoft Engage 2021.
    * **`App.js`** : Contains the components with their functionalities
 * **`server.js`** : Backend of the website
 
+## 4. How does it work?
+1. You can visit [this site](https://nazee-clone.netlify.app/) to see how the website looks.
+2. When you enter the website or run it on local host, you'll see your video and on the right side you can type in your 'Name'
+3. To connect another user click on 'COPY ID' and a unique will get added to your clipboard. Send this ID to your friend and you'll see them calling.
+<p>
+<img src="https://github.com/narmin24/Teams-Clone_Engage/blob/main/website.png"> 
+ </p> 
+4. 'Answer' the call and you can easily talk to your friend over video call.
+<p>
+<img src="https://github.com/narmin24/Teams-Clone_Engage/blob/main/calling.png"> 
+ </p> 
+ 
 ## Usage
 To run this project, install it locally using npm:
 ```
