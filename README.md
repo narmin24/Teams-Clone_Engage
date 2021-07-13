@@ -29,5 +29,4 @@ cd frontend
 yarn start
 
 Once you go to the localhost, use the following video as a reference:
-  
-  ![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
+
